@@ -1,2 +1,2 @@
-# Arduino_Codes
+# Arduino-Codes
 This repo is for testing and uploading varior arduino codes
